@@ -301,11 +301,6 @@ void Widget::save() {
         output.close();  }
 }
 
-/**void showHelp()
-{
-
-}**/
-
 Widget::~Widget()
 {
     delete spinBox;
