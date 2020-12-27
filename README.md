@@ -1,3 +1,4 @@
+# SLAE_kramer
 -------------------------------------------------
 SLAE_kramer
 -------------------------------------------------
@@ -5,4 +6,4 @@ SLAE_kramer
 	
 	In the process of solving a system of linear algebraic equations, the program 	will display a message about the absence or set of roots, or calculate the roots 	(if there are any)
 ---------------------------------------------------------------------------------------------------
-# SLAE_kramer
+
