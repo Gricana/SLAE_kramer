@@ -34,7 +34,6 @@ private slots:
     void calculation();
     void cancel();
     void save();
-    //void showHelp();
 private:
     QSpinBox *spinBox;
     QPushButton *buttonCalculate;
